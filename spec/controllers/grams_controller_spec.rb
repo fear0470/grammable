@@ -26,5 +26,9 @@ RSpec.describe GramsController, type: :controller do
       expect(gram.message).to eq("Hello!")
     end
 
+    it "should properly deal with validation errors" do
+
+    end
+
   end
 end
