@@ -3,4 +3,6 @@ class Gram < ApplicationRecord
 
 
    belongs_to :user
+
+   mount_uploaders :picture, PictureUploader
 end
