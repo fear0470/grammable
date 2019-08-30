@@ -6,11 +6,11 @@ Grammable is an Instagram clone app that lets users share photos with their frie
 <ul>
   <li> Amazon Web Services (S3) for photo storage to let users upload their photos. </li>
 
-   <li> <Twitter Bootstrap 3 for CSS and components. </li>
+  <li> <Twitter Bootstrap 3 for CSS and components. </li>
 
-    <li> PostgreSQL for database queries involving users, photos, and comments. </li>
+  <li> PostgreSQL for database queries involving users, photos, and comments. </li>
 
-    <li> Devise for user forms and security. </li>
+  <li> Devise for user forms and security. </li>
 </ul>
 ####### Here's a sneak peek at the Grammable feed. 
 ![](app/assets/images/gram.jpg)
