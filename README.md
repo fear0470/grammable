@@ -13,4 +13,4 @@ Grammable is an Instagram clone app that lets users share photos with their frie
   <li> Devise for user forms and security. </li>
 </ul>
 ####### Here's a sneak peek at the Grammable feed. 
-![](app/assets/images/gram.jpg)
+<img src="app/assets/images/gram.jpg">
